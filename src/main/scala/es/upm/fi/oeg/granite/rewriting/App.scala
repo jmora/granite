@@ -1,4 +1,4 @@
-package es.upm.fi.oeg.morph.rewriting.granite
+package es.upm.fi.oeg.granite.rewriting
 
 /**
  * @author ${user.name}
